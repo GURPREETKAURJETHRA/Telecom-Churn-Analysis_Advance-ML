@@ -206,3 +206,9 @@ Therefore, we will build another model with the main objective of identifying im
 After identifying important predictors, display them visually - we can use plots, summary tables etc. - whatever we think best conveys the importance of features.
 
 Finally, recommend strategies to manage customer churn based on our observations.
+
+### Acknowledgement:
+This Project Assignment was part of Curriculum during **EPGP-DataScience AI-ML (Deep Learning Spec) from IIIT-B.**
+
+***@All Rights Reserved*** [**Gurpreet Kaur Jethra**](https://github.com/GURPREETKAURJETHRA)
+
